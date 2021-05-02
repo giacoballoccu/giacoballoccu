@@ -1,6 +1,7 @@
 ### Hi there 👋
-You can find me grinding on: https://leetcode.com/TTVredsmoke3001/.  
-Or: https://binarysearch.com/@/TTVredsmoke3001
+You can find me grinding and have fun doing algorithms in my two favorite platforms: 
+https://leetcode.com/TTVredsmoke3001/.  
+https://binarysearch.com/@/TTVredsmoke3001
 
 [![Giacoballoccu's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacoballoccu&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats).  
 
