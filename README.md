@@ -2,7 +2,8 @@
 You can find me grinding on: https://leetcode.com/TTVredsmoke3001/.  
 Or: https://binarysearch.com/@/TTVredsmoke3001
 
-[![Giacoballoccu's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacoballoccu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Giacoballoccu's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacoballoccu&theme=radical)](https://github.com/anuraghazra/github-readme-stats).  
+![](https://komarev.com/ghpvc/?username=giacoballoccu&color=brightgreen)
 
 <!--
 **giacoballoccu/giacoballoccu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
