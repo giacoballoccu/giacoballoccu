@@ -2,7 +2,7 @@
 You can find me grinding on: https://leetcode.com/TTVredsmoke3001/.  
 Or: https://binarysearch.com/@/TTVredsmoke3001
 
-[![Giacoballoccu's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacoballoccu&theme=radical)](https://github.com/anuraghazra/github-readme-stats).  
+[![Giacoballoccu's GitHub stats](https://github-readme-stats.vercel.app/api?username=giacoballoccu&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats).  
 
 ![](https://komarev.com/ghpvc/?username=giacoballoccu&color=brightgreen)
 
