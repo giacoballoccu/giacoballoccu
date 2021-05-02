@@ -1,5 +1,5 @@
 ### Hi there 👋
-You can find me grinding and have fun doing algorithms in my two favorite platforms: 
+You can find me grinding and have fun doing algorithms in my two favorite platforms:   
 https://leetcode.com/TTVredsmoke3001/.  
 https://binarysearch.com/@/TTVredsmoke3001
 
