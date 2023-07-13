@@ -4,6 +4,8 @@ I'm a PhD student at University of Cagliari (UniCa) and my research interest lay
 
 I'm teaching assistant of Algorithm and Data Structure in my University and I previously interned for 4 months at Amazon as Applied Scientist in the Targeting Science Ads team.
 
+I train my models using Paperspace which gives you the chance to lease paying monthly subscription GPUs such as A100 80Gb, A6000 etc. Click [here](https://console.paperspace.com/signup?R=7H5U6TB) to get my referral and get 10$ of credit for free.
+
 - 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=SKF5qv8AAAAJ)
 - 👨‍💻 [LeetCode](https://leetcode.com/gballoccu/)
 - 📫 [Reach me out](mailto:gballoccu@acm.org)
