@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a PhD student at University of Cagliari (UniCa) and my research interest lay in Recommender Systems and end-user Explainability tecniques. I'm currently working on generating explanations based on Language Models outputs. Previously I mostly worked with Knowledge-Aware Recommender Systems and Path Reasoning methods. 
+I'm a PhD student at University of Cagliari (UniCa) and my research interest lay in Recommender Systems and end-user Explainability tecniques. I'm currently working on designing end-to-end Language Models for Explainable Recommendation. Previously I mostly worked with Knowledge-Aware Recommender Systems and Path Reasoning methods. 
 
 I'm teaching assistant of Algorithm and Data Structure in my University and I previously interned for 4 months at Amazon as Applied Scientist in the Targeting Science Ads team.
 
